@@ -31,6 +31,7 @@
 - Numpy
 - Scikit-learn 
 - Matplotlib
+- seaborn
 
 ## Вывод
 
