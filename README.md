@@ -30,8 +30,9 @@
 - Pandas
 - Numpy
 - Scikit-learn 
+- SciPy
 - Matplotlib
-- seaborn
+- Seaborn
 
 ## Вывод
 
